@@ -3,4 +3,5 @@ def square_array(numbers)
     new = []
     new << n*n 
   end 
+  new
 end 
